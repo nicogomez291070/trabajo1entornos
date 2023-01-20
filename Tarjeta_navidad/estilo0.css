@@ -5,7 +5,7 @@
 }
 body{
     text-align: center;
-    background-image: url(fondo4.png);
+    background-image: url(fonxmas.png);
     background-repeat:no-repeat ;
     background-size: 75.61% ;
     background-color: rgb(104, 1, 1);
@@ -57,7 +57,7 @@ body{
     margin-left: 2203PX;
     border-color: black;
     box-shadow: 10px;
-    border: 15px rgb(136, 1, 1) solid;
+    border: 15px rgb(117, 199, 10) solid;
   }
 
 .grid3int{
@@ -69,7 +69,7 @@ body{
 }
 .gridcont{
     align-content: center;
-    color: rgba(226, 186, 5, 0.808);
+    color: rgba(6, 3, 179, 0.808);
     display: grid;
     gap: 5px;
     width: 500px;
