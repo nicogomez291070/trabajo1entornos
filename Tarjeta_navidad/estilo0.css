@@ -1,0 +1,81 @@
+@font-face {
+    font-family: GreatVibes-Regular;
+    src: url(Great_Vibes);
+    
+}
+body{
+    text-align: center;
+    background-image: url(fondo4.png);
+    background-repeat:no-repeat ;
+    background-size: 75.61% ;
+    background-color: rgb(104, 1, 1);
+ 
+}
+.campa{
+  
+    align-content: center;
+}
+.C3{
+    background-color: aqua;
+}
+.C4{
+    background-image: url(fonxmas.png);
+    background-size: 135% ;
+    background-repeat:no-repeat ;
+}
+.C5{
+    background-image: url(fondo3.png);
+
+    background-repeat:no-repeat ;
+}
+.C1{
+    background-image: url(fondocel.png);
+    text-align: left;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+}
+.C2{
+    background-image: url(fondocel.png);
+    text-align: right;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.parraiz{
+    text-align: right;
+}
+.parrade{
+    text-align: left;
+}
+.grid3 {
+    color: rgba(253, 186, 0, 0.87);
+    font-size: 25px;
+    display: inline-grid;
+    grid-template-columns: 278px 278px;
+    grid-template-rows: repeat(2, 2fr);
+    gap: 5px;
+    margin-bottom: 11px;
+    margin-left: 2203PX;
+    border-color: black;
+    box-shadow: 10px;
+    border: 15px rgb(136, 1, 1) solid;
+  }
+
+.grid3int{
+
+    display: grid;
+    grid-template-columns: 560px;
+    grid-template-rows: 500px 200px;
+
+}
+.gridcont{
+    align-content: center;
+    color: rgba(226, 186, 5, 0.808);
+    display: grid;
+    gap: 5px;
+    width: 500px;
+ 
+}
+
+.item {
+    padding: 1em; 
+}
