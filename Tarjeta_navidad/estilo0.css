@@ -5,8 +5,8 @@
 }
 body{
     text-align: center;
-    background-image: url(fondo3.png);
-    background-repeat:no-repeat ;
+    background-image: url(pato.png);
+    background-repeat:repeat ;
     background-size: 75.61% ;
     background-color: rgb(104, 1, 1);
  
@@ -47,7 +47,7 @@ body{
     text-align: left;
 }
 .grid3 {
-    color: rgba(17, 240, 240, 0.87);
+    color: rgba(89, 185, 185, 0.87);
     font-size: 25px;
     display: inline-grid;
     grid-template-columns: 278px 278px;
@@ -55,9 +55,9 @@ body{
     gap: 5px;
     margin-bottom: 11px;
     margin-left: 2203PX;
-    border-color: rgb(85, 133, 8);
+    border-color: rgb(224, 215, 87);
     box-shadow: 10px;
-    border: 15px rgb(219, 15, 185) solid;
+    border: 15px rgb(73, 6, 62) solid;
   }
 
 .grid3int{
